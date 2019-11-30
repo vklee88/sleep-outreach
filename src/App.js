@@ -1,24 +1,16 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import {Pane, Tab, Tablist} from 'evergreen-ui';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Pane width="100%" height="50px" padding="10px" alignItems="center" display="flex">
+        <Tablist>
+          <Tab height={30} fontSize={20}>The PVT</Tab>
+          <Tab height={30} fontSize={20}>What's going on?</Tab>
+        </Tablist>
+      </Pane>
     </div>
   );
 }
