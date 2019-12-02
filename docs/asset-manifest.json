@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.b100e6da.chunk.css",
-    "main.js": "/static/js/main.5fbd4db7.chunk.js",
-    "main.js.map": "/static/js/main.5fbd4db7.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b8702738.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b8702738.js.map",
-    "static/js/2.f5f2b16d.chunk.js": "/static/js/2.f5f2b16d.chunk.js",
-    "static/js/2.f5f2b16d.chunk.js.map": "/static/js/2.f5f2b16d.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.62269713df01ba10a45ef29b33bf61ac.js": "/precache-manifest.62269713df01ba10a45ef29b33bf61ac.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/static/css/main.b100e6da.chunk.css.map",
-    "static/media/pvt_sleepiness.png": "/static/media/pvt_sleepiness.91e98cca.png",
-    "static/media/subjective_sleepiness.gif": "/static/media/subjective_sleepiness.4154de8f.gif"
+    "main.css": "/sleep-outreach/static/css/main.b100e6da.chunk.css",
+    "main.js": "/sleep-outreach/static/js/main.01aa29be.chunk.js",
+    "main.js.map": "/sleep-outreach/static/js/main.01aa29be.chunk.js.map",
+    "runtime-main.js": "/sleep-outreach/static/js/runtime-main.d4f640b7.js",
+    "runtime-main.js.map": "/sleep-outreach/static/js/runtime-main.d4f640b7.js.map",
+    "static/js/2.f5f2b16d.chunk.js": "/sleep-outreach/static/js/2.f5f2b16d.chunk.js",
+    "static/js/2.f5f2b16d.chunk.js.map": "/sleep-outreach/static/js/2.f5f2b16d.chunk.js.map",
+    "index.html": "/sleep-outreach/index.html",
+    "precache-manifest.6964b8175ede020c3a93062dacac96aa.js": "/sleep-outreach/precache-manifest.6964b8175ede020c3a93062dacac96aa.js",
+    "service-worker.js": "/sleep-outreach/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/sleep-outreach/static/css/main.b100e6da.chunk.css.map",
+    "static/media/pvt_sleepiness.png": "/sleep-outreach/static/media/pvt_sleepiness.91e98cca.png",
+    "static/media/subjective_sleepiness.gif": "/sleep-outreach/static/media/subjective_sleepiness.4154de8f.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.b8702738.js",
+    "static/js/runtime-main.d4f640b7.js",
     "static/js/2.f5f2b16d.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.5fbd4db7.chunk.js"
+    "static/js/main.01aa29be.chunk.js"
   ]
 }
