@@ -1,6 +1,7 @@
 {
   "name": "sleep_outreach_proj",
   "version": "0.1.0",
+  "homepage": "https://vklee88.github.io/sleep-outreach/",
   "private": true,
   "dependencies": {
     "evergreen-ui": "^4.21.5",
